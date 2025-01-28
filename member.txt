@@ -1,0 +1,2 @@
+Member{name=Andile, surname=Ngubeni, idNo=0112295655081, gender=Male, typeContract=Six months, checkBox=true}
+Member{name=Andile, surname=Ngubeni, idNo=0112295655081, gender=Male, typeContract=Six months, checkBox=true}
